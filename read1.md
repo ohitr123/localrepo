@@ -1,3 +1,5 @@
-this is my local repo
-I am doing good rohit.
-i am bad boy
+the brown fox jumps over lazy dogs
+the sky is blue in colour
+my name is rohit kumar
+
+
